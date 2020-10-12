@@ -1,0 +1,8 @@
+# python stuff
+__pycache__/
+# notebook stuff
+.ipynb_checkpoints/
+# pyenv stuff
+.python-version
+# pycharm stuff
+.idea/

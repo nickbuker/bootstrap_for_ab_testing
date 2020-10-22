@@ -4,5 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 # pyenv stuff
 .python-version
-# pycharm stuff
+# jetbrains stuff
 .idea/
